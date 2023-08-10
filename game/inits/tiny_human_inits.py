@@ -1,0 +1,28 @@
+# Collected from https://www.gravon.de/gravon/stratego/stratego.jsp
+
+TINY_INITS = [
+    "GHIM",
+    "GHMI",
+    "GIHM",
+    "GIMH",
+    "GMHI",
+    "GMIH",
+    "HGIM",
+    "HGMI",
+    "HIGM",
+    "HIMG",
+    "HMGI",
+    "HMIG",
+    "IGHM",
+    "IGMH",
+    "IHGM",
+    "IHMG",
+    "IMGH",
+    "IMHG",
+    "MGHI",
+    "MGIH",
+    "MHGI",
+    "MHIG",
+    "MIGH",
+    "MIHG",
+]
